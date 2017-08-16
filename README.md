@@ -1,1 +1,0 @@
-# BashTeacher
